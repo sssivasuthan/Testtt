@@ -1,0 +1,6 @@
+TwilioChatClient.framework/rootcert.pem filter=lfs diff=lfs merge=lfs -text
+TwilioChatClient.framework/Headers filter=lfs diff=lfs merge=lfs -text
+TwilioChatClient.framework/Info.plist filter=lfs diff=lfs merge=lfs -text
+TwilioChatClient.framework/Modules filter=lfs diff=lfs merge=lfs -text
+TwilioChatClient.framework/TwilioChatClient filter=lfs diff=lfs merge=lfs -text
+TwilioChatClient.framework/remove_archs filter=lfs diff=lfs merge=lfs -text

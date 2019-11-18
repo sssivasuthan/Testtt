@@ -1,6 +1,3 @@
-framework module TwilioChatClient {
-  umbrella header "TwilioChatClient.h"
-
-  export *
-  module * { export * }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:39fed9e8ef9112d6b5a2b2a623e1cd152bdc7938e8334abdcde80f534da8eb8b
+size 113
